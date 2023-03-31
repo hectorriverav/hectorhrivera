@@ -1,0 +1,13 @@
+backup/
+mysql/
+src/
+node_modules/
+styles/
+other-layouts/
+contact.php
+credits.php
+under-construction.php
+gulpfile.js
+script.js
+package-lock.json
+package.json
