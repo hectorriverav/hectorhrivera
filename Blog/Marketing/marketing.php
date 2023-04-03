@@ -18,8 +18,11 @@
 <body>
     <header>        
         <?php
-                define('BASE_DIR', '/Proyectos-Web/Hector');
-                include BASE_DIR . '/includes/templates/blog-topMenu.php';
+            // to get the absolute path to the current file's directory
+           $base_dir = __DIR__;
+       
+           // to get the relative path 
+           include $base_dir . '/../../includes/templates/blog-topMenu.php';
         ?>
         
         <section> <!--Main image-->
@@ -203,7 +206,7 @@
    
     <footer>
         <?php
-            include BASE_DIR . '/includes/templates/blog-bottomMenu.php';
+            include $base_dir . '/../../includes/templates/blog-bottomMenu.php';
         ?>
     </footer>
     

@@ -74,7 +74,7 @@
                         </div>
                         
                         <div class="CardArticle__button">
-                            <a href="Blog\Marketing\master-the-strategies-of-internet-marketing.php">Read Article</a>
+                            <a href="blog\Marketing\master-the-strategies-of-internet-marketing.php">Read Article</a>
                         </div>
                     </div>
                 </section>
@@ -176,7 +176,7 @@
                     <div class="Blog__Section">
                         <div>
                             <div class="Blog__Sections__Button">
-                                <a href="./Blog/Marketing/Marketing.php">Marketing </a>
+                                <a href="./blog/marketing/marketing.php">Marketing </a>
                             </div>
                         </div>
                         
@@ -215,7 +215,7 @@
 
             <!-- Footer -->
             <?php
-            include "./includes/templates/BotomMenu.php"
+            include "./includes/templates/botomMenu.php"
             ?>
 
         <!--Begin mc_embed_signup -->
