@@ -21,10 +21,10 @@
                     
                     <ul class="menu">
                         <li><a href="/index.php" class="Navbar__Menu">Home</a></li>
-                        <li><a href="/Blog/Marketing/Marketing.php" class="Navbar__Menu">Marketing</a></li>                    
-                        <li><a href="/Blog/SEO/seo.php" class="Navbar__Menu">SEO</a></li>                    
-                        <li><a href="/under-construction.php" class="Navbar__Menu">Web</a></li>                  
-                        <li><a href="/under-construction.php" class="Navbar__Menu">Security</a></li>
+                        <li><a href="/Blog/Marketing/marketing.php" class="Navbar__Menu">Marketing</a></li>                    
+                        <li><a href="/Blog/seo/seo.php" class="Navbar__Menu">SEO</a></li>                    
+                        <li><a href="/Blog/Cybersecurity/security.php" class="Navbar__Menu">Web</a></li>                  
+                        <li><a href="/Blog/Cybersecurity/security.php" class="Navbar__Menu">Security</a></li>
                         <!-- <li><a href="/contact.php" class="Navbar__Menu">Contact</a></li> -->
                     </ul>
                 </nav> <!--End navbar-->

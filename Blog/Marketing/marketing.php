@@ -206,6 +206,7 @@
    
     <footer>
         <?php
+            $base_dir = __DIR__;
             include $base_dir . '/../../includes/templates/blog-bottomMenu.php';
         ?>
     </footer>
