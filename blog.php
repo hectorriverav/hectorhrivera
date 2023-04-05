@@ -74,7 +74,7 @@
                         </div>
                         
                         <div class="CardArticle__button">
-                            <a href="blog\Marketing\master-the-strategies-of-internet-marketing.php">Read Article</a>
+                            <a href="./blog/marketing/master-the-strategies-of-internet-marketing.php">Read Article</a>
                         </div>
                     </div>
                 </section>
@@ -176,25 +176,25 @@
                     <div class="Blog__Section">
                         <div>
                             <div class="Blog__Sections__Button">
-                                <a href="./blog/marketing/marketing.php">Marketing </a>
+                                <a href="./blog/marketing/marketing.php">Marketing</a>
                             </div>
                         </div>
                         
                         <div>
                             <div class="Blog__Sections__Button">
-                                <a href="./under-construction.php">SEO</a>
+                                <a href="./blog/seo/seo.php">SEO</a>
                             </div>
                         </div>
 
                         <div>
                             <div class="Blog__Sections__Button">
-                                <a href="./under-construction.php">Web Dev</a>
+                                <a href="./blog/web-dev/web-dev.php">Web Dev</a>
                             </div>
                         </div>
 
                         <div>
                             <div class="Blog__Sections__Button">
-                                <a href="./under-construction.php">Cybersecurity</a>
+                                <a href="./blog/cybersecurity/security.php">Cybersecurity</a>
                             </div>
                         </div>
                     </div>
