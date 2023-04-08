@@ -176,19 +176,19 @@
                     <div class="Blog__Section">
                         <div>
                             <div class="Blog__Sections__Button">
-                                <a href="./Blog/Marketing/marketing.php">Marketing</a>
+                                <a href="./blog/marketing/marketing.php">Marketing</a>
                             </div>
                         </div>
                         
                         <div>
                             <div class="Blog__Sections__Button">
-                                <a href="./Blog/Seo/seo.php">SEO</a>
+                                <a href="./blog/seo/seo.php">SEO</a>
                             </div>
                         </div>
 
                         <div>
                             <div class="Blog__Sections__Button">
-                                <a href="./Blog/Web-dev/web-dev.php">Web Dev</a>
+                                <a href="./blog/web-dev/web-dev.php">Web Dev</a>
                             </div>
                         </div>
 
