@@ -170,7 +170,7 @@
     <div class="FooterBlogSection">
         <!-- Last paragrpah -->
         <div class="Container">
-            <p>Over the past years, I used to publish articles on <a href="https://www.kerikka.com/">www.kerikka.com</a>. For several reasons, I didn’t publish new articles lately and then decided to move them to his new website. The blog is divided into 4 sections: Internet Marketing, SEO (Search Engine Optimization), Web Development, and the newest; Cybersecurity. </p>
+            <p>Over the past years, I used to publish articles on <a href="https://www.kerikka.com/">www.kerikka.com</a>. For several reasons, I didn't publish new articles lately and then decided to move them to his new website. The blog is divided into 4 sections: Internet Marketing, SEO (Search Engine Optimization), Web Development, and the newest; Cybersecurity. </p>
         </div> <!--End Last paragraph-->
 
         <!-- mailchimp signup form -->

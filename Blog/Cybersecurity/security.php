@@ -13,21 +13,24 @@
         #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
     </style> <!--end mailchimp singup form-->
     <script src="https://kit.fontawesome.com/cb1ec135db.js" crossorigin="anonymous"></script>
-    <title>Internet Marketing</title>
+    <title>Cybersecurity</title>
 </head>
 <body>
     <header>        
-        <?php
-                define('BASE_DIR', '/Proyectos-Web/Hector');
-                include BASE_DIR . '/includes/templates/blog-topMenu.php';
+    <?php
+            // to get the absolute path to the current file's directory
+           $base_dir = __DIR__;
+       
+           // to get the relative path 
+           include $base_dir . '/../../includes/templates/blog-topMenu.php';
         ?>
         
         <section> <!--Main image-->
 
-            <img src="/build/img/internet-marketing.webp" alt="Tablet screen with pie graph, cup of coffe and a pen over a table, representing marketing core keys" srcset="">
+            <img src="/build/img/cybersecurity.webp" alt="Electrical circuits with a lock at the front" srcset="">
 
             <div class="Blog__Section-Title">
-                <h1>Internet Marketing Articles</h1>
+                <h1>Cybersecurity Articles</h1>
             </div>
             
         </section> 
@@ -36,17 +39,17 @@
     <!-- First paragrpah -->
     <div class="blog__intro">
 
-    <p>In this section, you will find articles about internet marketing. I gather my personal experience as an entrepreneur and my skills and knowledge about this.</p>
+    <p>In today's digital age, having a website is essential for any business. However, with the rise of cybercrime, it has become increasingly important for website owners and developers to prioritize cybersecurity. The impact of cybercrime on the global economy in 2022 was over 7 trillion dollars, and more than 422 million individuals were impacted just in the US. As a Cybersecurity Analyst, I am dedicated to sharing my knowledge so you can protect the most sensitive assets.</p>
 
-    <p>Let's dive in with a brief introduction.</p>
+    <p>If you have or are developing an e-commerce website, it is vital to understand how to protect your client's information and your database. Small business owners and web developers are particularly vulnerable to cyber-attacks because they may not have the resources to invest in expensive cybersecurity measures. However, there are a few simple steps you can take to protect your website and your client's data.</p>
 
-    <p>Have you ever wondered what the difference is between traditional marketing and internet marketing? As an entrepreneur or small business owner, it's essential to understand the importance of educate yourself on these aspects. </p>
+    <p>For example, the first step is to ensure that your website is using a secure connection. This means using HTTPS instead of HTTP, which encrypts data that is transmitted between the server and the client's device. This is essential when handling sensitive information like credit card details, passwords, and personal information.</p>
 
-    <p>Internet marketing is utilizing digital technologies and channels to reach out to potential customers. It involves the use of SEO, content, social media, email, and other digital strategies to promote your brand, build relationships with customers, and increase sales. Through these digital channels, businesses are able to connect with customers and potential customers in a more targeted, cost-effective, and efficient way than the traditional.</p>
+    <p>Another important aspect of cybersecurity is password management. Weak passwords are easy targets for hackers. Ensure that your website requires strong and complex passwords and that your clients are informed about the importance of creating a unique password. Additionally, you should take advantage of tools like two-factor authentication to add an extra layer of security.</p>
 
-    <p>Internet marketing is an invaluable tool for entrepreneurs and small business owners. It helps you build brand awareness, generate leads, and increase sales. Furthermore, it allows you to reach a wider audience and target potential customers in a more cost-effective way.</p>
+    <p>Lastly, another action you can take is to keep your website up-to-date with the latest security patches and software updates. Cybercriminals are always looking for vulnerabilities in websites, and outdated software can be an easy target. Ensuring that your website is continually updated will make it harder for hackers to exploit any weaknesses.</p>
 
-    <p>In conclusion, internet marketing is an essential tool for entrepreneurs and small business owners. It's important to educate yourself on the various aspects of it  and to take advantage of its many benefits.</p>
+    <P>In summary, cybersecurity is of critical importance for website owners and developers. With cybercrime becoming increasingly prevalent, small business owners and web developers must take steps to ensure that their client's sensitive data is secure. Remember, the cost of a data breach can be significant in terms of both finances and reputation, so investing in cybersecurity is always worth it. I hope you enjoy the coming articles.</P>
 
     <p><i>While the website is in construction, maybe you wont be able see the four latest articles</i></p>    
 
@@ -54,9 +57,9 @@
 
     <!-- Begin last three articles cards -->
     <div class="ArticlesCards">
-        <!-- Begin card 1-->
-        <div>
-            <section class="CardGeneral containter CardArticle__Layout">
+       
+        <div>  <!-- Begin card 1-->
+            <!-- <section class="CardGeneral containter CardArticle__Layout"> 
 
             <div class="CardHeader">
                         <div class="CardGeneral__title" >
@@ -78,8 +81,8 @@
                         <a href="./master-the-strategies-of-internet-marketing.php">Read More</a>
                     </div>
                 </div>
-            </section> <!--End card 1-->
-        </div>
+            </section> -->
+        </div> <!--End card 1-->
 
         <!-- Begin card 2 -->
         <!-- <div>
@@ -167,7 +170,7 @@
     <div class="FooterBlogSection">
         <!-- Last paragrpah -->
         <div class="Container">
-            <p>Over the past years, I used to publish articles on <a href="https://www.kerikka.com/">www.kerikka.com</a>. For several reasons, I didn’t publish new articles lately and then decided to move them to his new website. The blog is divided into 4 sections: Internet Marketing, SEO (Search Engine Optimization), Web Development, and the newest; Cybersecurity. </p>
+            <p>Over the past years, I used to publish articles on <a href="https://www.kerikka.com/">www.kerikka.com</a>. For several reasons, I didn't publish new articles lately and then decided to move them to his new website. The blog is divided into 4 sections: Internet Marketing, SEO (Search Engine Optimization), Web Development, and the newest; Cybersecurity. </p>
         </div> <!--End Last paragraph-->
 
         <!-- mailchimp signup form -->
@@ -202,8 +205,9 @@
 
    
     <footer>
-        <?php
-            include BASE_DIR . '/includes/templates/blog-bottomMenu.php';
+    <?php
+            $base_dir = __DIR__;
+            include $base_dir . '/../../includes/templates/blog-bottomMenu.php';
         ?>
     </footer>
     

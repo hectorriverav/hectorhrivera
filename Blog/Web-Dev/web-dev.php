@@ -13,93 +13,77 @@
         #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
     </style> <!--end mailchimp singup form-->
     <script src="https://kit.fontawesome.com/cb1ec135db.js" crossorigin="anonymous"></script>
-    <title>Cybersecurity</title>
+    <title>Web Development</title>
 </head>
 <body>
-    <header>
-        <!-- Top menu  -->
-        <div class="TopMenu">
-            <section class="TopMenu__Container--Blog">
+    <header>        
+    <?php
+            // to get the absolute path to the current file's directory
+           $base_dir = __DIR__;
+       
+           // to get the relative path 
+           include $base_dir . '/../../includes/templates/blog-topMenu.php';
+        ?>
+        
+        <section> <!--Main image-->
 
-                <div class="TopMenu__Logo">            
-                    <a href="/index.html">
-                        <img class="TopMenu__Logo--Image" src="/build/img/HectorHRiveraVaca.webp" alt="" height="44" width="45">
-                    </a>
-                    
-                    <p class="TopMenu__Title">Héctor H. Rivera<br>
-                    <span class="TopMenu__Title--sp"><a href="/blog.html">Blog</a></span>
+            <img src="/build/img/ProgrammingCode.webp" alt="Black screen with code lines" srcset="">
 
-                </div>
-
-                <div class="Navbar">
-                    
-                    <a href="/index.html" class="Navbar__Menu">Home</a>
-                    <a href="/Blog/Marketing/Marketing.html" class="Navbar__Menu">Marketing</a>                    
-                    <a href="/Blog/SEO/seo.html" class="Navbar__Menu">SEO</a>                    
-                    <a href="/Blog/Web-Dev/web-dev.html" class="Navbar__Menu">Web-dev</a>                    
-                    <a href="/Blog/Cybersecurity/security.html" class="Navbar__Menu">Cybersecurity</a>
-                    
-                    <!-- <a href="/contact.html" class="Navbar__Menu">Contact</a> -->
-
-                </div>
-                
-            </section>
-        </div> <!--End top menu-->
-
-        <!-- social-media -->
-        <section class='SocialMedia__blog'>
-            <div>
-                <a href="https://www.facebook.com/HectorHRiveraV" target="_blank">
-                    <i class="fa-brands fa-facebook"></i>
-                </a>
+            <div class="Blog__Section-Title">
+                <h1>Web Development Articles</h1>
             </div>
-            <div>
-                <a href="https://twitter.com/hectorriverav" target="_blank">
-                    <i class="fa-brands fa-twitter"></i>
-                </a>
-            </div>
-            <div>
-                <a href="https://www.linkedin.com/in/hector-h-rivera/" target="_blank">
-                    <i class="fa-brands fa-linkedin"></i>
-                </a>
-            </div>
-            <div>
-                <a  href="https://github.com/hectorriverav" target="_blank">
-                    <i class="fa-brands fa-github"></i>
-                </a>
-            </div>
-        </section> <!--End Social media-->
+            
+        </section> 
     </header>
 
-    <!-- Hero header -->
-    <section class="hero">
-
-        <div class="hero__content">
-        
-            <h1 class="hero__title">
-                Cybersecurity
-            </h1>
-            
-                <button type="button" class="hero__button">
-                <a href="#"">
-                Last Artilce
-                </a>
-            </button>
-        </div>
-    </section> <!--end hero header-->
-
     <!-- First paragrpah -->
-    <div class="CardGeneral__text">
-        <p>Over the past years, I used to publish articles on <a href="https://www.kerikka.com/">www.kerikka.com</a>. For several reasons, I didn’t publish new articles lately and then decided to move them to his new website. The blog is divided into 4 sections: Internet Marketing, SEO (Search Engine Optimization), Web Development, and the newest; Cybersecurity. </p>
-        <p>Sometimes, technical subjects are not too easy to understand for some people who are not in the tech field. Consequently, I try my best to write so a non-tech person can understand better some concepts.Sometimes I reach my goal, other times I get close enough. </p>
-        <p>Below you will find the latest article of each section. Tap or click on the card to go to the article. Or go to the end of the page and chose the section of your interest.</p>
-        <p>Enjoy!</p> 
+    <div class="blog__intro">
+
+    <p>In this digital age, where the majority of the population accesses the internet daily, it is vital for businesses to have an online presence. And what can help businesses achieve that presence? Web development! Web development has been in the spotlight lately, and it is no surprise why. But why is this field so essential for small business owners? And what can junior web developers expect in this industry? Continue reading to find out!</p>
+
+    <p>For small business owners, having a website can be a game-changer. It helps them showcase their products or services, attracts potential customers, and increases brand awareness. However, having a website alone is not enough. The website must be user-friendly, visually appealing, and mobile-responsive. That is where web development steps in. Understanding web development basics can allow small business owners to communicate better with their web developers, saving them valuable time and resources.</p>
+
+    <p>Moreover, having a general idea about web development trends can help small business owners keep up with the competition. Nowadays, websites must be optimized for an outstanding user experience, have fast loading times, and be secure. Staying up to date with these trends can help small businesses stay ahead of the game.</p>
+
+    <p>From a junior web developer's perspective, web development can be both challenging and rewarding. Junior web developers are crucial to the industry, and they must continuously upskill themselves to stay relevant. They get the opportunity to work on exciting projects, collaborate with other developers, and witness their work come to life. However, web development can also be frustrating, with endless bugs to fix and seemingly impossible problems to solve. The key is to keep pushing forward and keep learning.</p>
+
+    <p>Web development plays an essential role in today's digital era, and having a general knowledge of it can benefit both small business owners and junior web developers. Small business owners can save time and money by being equipped with some web development basics, and junior web developers can enjoy a challenging yet rewarding career. Let's all embrace web development and make the web a more user-friendly and exciting place!</p>
+
+    <p><i>While the website is in construction, maybe you wont be able see the four latest articles</i></p>    
+
     </div> <!--End first paragraph-->
 
     <!-- Begin last three articles cards -->
     <div class="ArticlesCards">
-        <!-- Begin card 1-->
-        <div>
+       
+        <div>  <!-- Begin card 1-->
+            <!-- <section class="CardGeneral containter CardArticle__Layout"> 
+
+            <div class="CardHeader">
+                        <div class="CardGeneral__title" >
+                            <h2>Master the Strategies of Internet Marketing</h2>
+                        </div>
+        
+                        <div>
+                            <img class="CardArticle__Image" src="/build/img/internet-marketing.webp" alt="A tablet screen with statistical graphs, a cup of coffee and a cellphone" title="Photo by form PxHere">
+                        </div>
+                    </div>
+                    
+                <div class="CardArticle__body">
+                    <div class="CardGeneral__text">
+                        <p>The development of internet marketing during the 1990s and 2000s changed the way brands and businesses use technology for marketing.... 
+                        </p>
+                    </div>
+                    
+                    <div class="CardArticle__button">
+                        <a href="./master-the-strategies-of-internet-marketing.php">Read More</a>
+                    </div>
+                </div>
+            </section> -->
+        </div> <!--End card 1-->
+
+        <!-- Begin card 2 -->
+        <!-- <div>
             <section class="CardGeneral containter CardArticle__Layout">
 
                 <div class="CardHeader">
@@ -122,38 +106,11 @@
                         <a href="#">Read More</a>
                     </div>
                 </div>
-            </section> <!--End card 1-->
-        </div>
-
-        <!-- Begin card 2-->
-        <div>
-            <section class="CardGeneral containter CardArticle__Layout">
-
-                <div class="CardHeader">
-                    <div class="CardGeneral__title" >
-                        <h2>Card Title</h2>
-                    </div>
-
-                    <div>
-                        <img class="CardArticle__Image" src="/build/img/image.webp" alt="" srcset="">
-                    </div>
-                </div>
-                    
-                <div class="CardArticle__body">
-                    <div class="CardGeneral__text">
-                        <p>Maecenas sed orci quis quam accumsan placerat ut quis nisi. Pellentesque vehicula ante vitae ligula consequat tincidunt. 
-                        </p>
-                    </div>
-                    
-                    <div class="CardArticle__button">
-                        <a href="#">Read More</a>
-                    </div>
-                </div>
-            </section> <!--End card 2-->
-        </div>
+            </section> 
+        </div> -->
 
         <!-- Begin card 3-->
-        <div>
+        <!-- <div>
             <section class="CardGeneral containter CardArticle__Layout">
 
                 <div class="CardHeader">
@@ -176,11 +133,11 @@
                         <a href="#">Read More</a>
                     </div>
                 </div>
-            </section> <!--End card 3-->
-        </div>
+            </section> 
+        </div> -->
 
         <!-- Begin card 4-->
-        <div>
+        <!-- <div>
             <section class="CardGeneral containter CardArticle__Layout">
 
                 <div class="CardHeader">
@@ -203,14 +160,15 @@
                         <a href="#">Read More</a>
                     </div>
                 </div>
-            </section> <!--End card 4-->
-        </div>
+            </section> 
+        </div> -->
+        <!--End card 4-->
     </div>
 
     <div class="FooterBlogSection">
         <!-- Last paragrpah -->
-        <div class="CardGeneral__text">
-            <p>Over the past years, I used to publish articles on <a href="https://www.kerikka.com/">www.kerikka.com</a>. For several reasons, I didn’t publish new articles lately and then decided to move them to his new website. The blog is divided into 4 sections: Internet Marketing, SEO (Search Engine Optimization), Web Development, and the newest; Cybersecurity. </p>
+        <div class="Container">
+            <p>Over the past years, I used to publish articles on <a href="https://www.kerikka.com/">www.kerikka.com</a>. For several reasons, I didn't publish new articles lately and then decided to move them to his new website. The blog is divided into 4 sections: Internet Marketing, SEO (Search Engine Optimization), Web Development, and the newest; Cybersecurity. </p>
         </div> <!--End Last paragraph-->
 
         <!-- mailchimp signup form -->
@@ -243,57 +201,15 @@
         </div> <!--end html mailchimp signup form-->
     </div>
 
-    <div>
-        <!-- Bottom Menu & Credits  -->
-        <div class="BotomMenu__Blog">
-            <div class="BotomMenu__Container">
-
-                <div class="BotomMenu__Navbar--Blog">
-                    
-                    <a href="/index.html" class="Navbar__Menu">Home</a>
-                    <a href="/Blog/Marketing/Marketing.html" class="Navbar__Menu">Marketing</a>                    
-                    <a href="/Blog/SEO/seo.html" class="Navbar__Menu">SEO</a>                    
-                    <a href="/Blog/Web-Dev/web-dev.html" class="Navbar__Menu">Web-dev</a>                    
-                    <a href="/Blog/Cybersecurity/security.html" class="Navbar__Menu">Cybersecurity</a>
-                    
-                    <!-- <a href="/contact.html" class="BotomMenu__Navbar--Menu">Contact</a> -->
-
-                </div>
-                
-            </div>
-        </div> <!--End bottom menu-->
-
-        <!-- social-media -->
-        <section class='SocialMedia__blog'>
-            <div>
-                <a href="https://www.facebook.com/HectorHRiveraV" target="_blank">
-                    <i class="fa-brands fa-facebook"></i>
-                </a>
-            </div>
-            <div>
-                <a href="https://twitter.com/hectorriverav" target="_blank">
-                    <i class="fa-brands fa-twitter"></i>
-                </a>
-            </div>
-            <div>
-                <a href="https://www.linkedin.com/in/hector-h-rivera/" target="_blank">
-                    <i class="fa-brands fa-linkedin"></i>
-                </a>
-            </div>
-            <div>
-                <a  href="https://github.com/hectorriverav" target="_blank">
-                    <i class="fa-brands fa-github"></i>
-                </a>
-            </div>
-        </section> <!--end social media-->
-
-        <!-- Credits -->
-        <div class="credits">
-            <p>
-            Hector H. Rivera Vaca &copy; 2023
-            </p>
-        </div> <!--end credits-->
-    </div>
+   
+    <footer>
+    <?php
+            $base_dir = __DIR__;
+            include $base_dir . '/../../includes/templates/blog-bottomMenu.php';
+        ?>
+    </footer>
+    
+    <script src="/build/js/app.js"></script>
 
     <!-- Begin script mailchimp signup form -->
     <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[0]='EMAIL';ftypes[0]='email';fnames[2]='MMERGE2';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='text';fnames[4]='MMERGE4';ftypes[4]='text'; /*
