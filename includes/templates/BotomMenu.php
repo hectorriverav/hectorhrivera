@@ -5,10 +5,8 @@
             <div class="BotomMenu__Navbar">
                 
                 <a href="/about.php" class="BotomMenu__Navbar--Menu">About</a>
-                
-                <a href="/blog.php" class="BotomMenu__Navbar--Menu">Blog</a>
-                
                 <a href="/porfolio.php" class="BotomMenu__Navbar--Menu">Portfolio</a>
+                <a href="/blog.php" class="BotomMenu__Navbar--Menu">Blog</a>
                 
                 <!-- <a href="/contact.php" class="BotomMenu__Navbar--Menu">Contact</a> -->
 

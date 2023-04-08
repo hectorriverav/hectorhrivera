@@ -215,7 +215,7 @@
 
             <!-- Footer -->
             <?php
-            include "./includes/templates/botomMenu.php"
+            include "./includes/templates/BotomMenu.php"
             ?>
 
         <!--Begin mc_embed_signup -->
