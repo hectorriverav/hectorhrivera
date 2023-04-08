@@ -194,7 +194,7 @@
 
                         <div>
                             <div class="Blog__Sections__Button">
-                                <a href="./Blog/Cybersecurity/security.php">Cybersecurity</a>
+                                <a href="./blog/cybersecurity/security.php">Cybersecurity</a>
                             </div>
                         </div>
                     </div>
