@@ -176,25 +176,25 @@
                     <div class="Blog__Section">
                         <div>
                             <div class="Blog__Sections__Button">
-                                <a href="./blog/marketing/marketing.php">Marketing</a>
+                                <a href="./Blog/Marketing/marketing.php">Marketing</a>
                             </div>
                         </div>
                         
                         <div>
                             <div class="Blog__Sections__Button">
-                                <a href="./blog/seo/seo.php">SEO</a>
+                                <a href="./Blog/SEO/seo.php">SEO</a>
                             </div>
                         </div>
 
                         <div>
                             <div class="Blog__Sections__Button">
-                                <a href="./blog/web-dev/web-dev.php">Web Dev</a>
+                                <a href="./Blog/Web-Dev/web-dev.php">Web Dev</a>
                             </div>
                         </div>
 
                         <div>
                             <div class="Blog__Sections__Button">
-                                <a href="./blog/cybersecurity/security.php">Cybersecurity</a>
+                                <a href="./Blog/Cybersecurity/security.php">Cybersecurity</a>
                             </div>
                         </div>
                     </div>
