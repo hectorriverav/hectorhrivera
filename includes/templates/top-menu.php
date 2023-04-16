@@ -13,9 +13,9 @@
 
             <div class="Navbar">
                 
-                <a href="/about.php" class="Navbar__Menu">About</a>                
-                <a href="/porfolio.php" class="Navbar__Menu">Portfolio</a>
-                <a href="/blog.php" class="Navbar__Menu">Blog</a>
+                <a href="/about" class="Navbar__Menu">About</a>                
+                <a href="/porfolio" class="Navbar__Menu">Portfolio</a>
+                <a href="/blog" class="Navbar__Menu">Blog</a>
                 
                 <!-- <a href="/contact.php" class="Navbar__Menu">Contact</a> -->
 
