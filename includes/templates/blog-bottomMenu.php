@@ -4,10 +4,10 @@
                 <div class="BotomMenu__Navbar--Blog">
                     
                     <a href="/index.php" class="Navbar__Menu--Blog">Home</a>
-                    <a href="../../Blog/Marketing/marketing.php" class="Navbar__Menu">Marketing</a>                    
-                    <a href="../../Blog/SEO/seo.php" class="Navbar__Menu">SEO</a>                    
-                    <a href="../../Blog/Web-Dev/web-dev.php" class="Navbar__Menu">Web</a>                    
-                    <a href="../../Blog/Cybersecurity/security.php" class="Navbar__Menu">Security</a>                  
+                    <a href="../../Blog/Marketing/marketing" class="Navbar__Menu">Marketing</a>                    
+                    <a href="../../Blog/SEO/seo" class="Navbar__Menu">SEO</a>                    
+                    <a href="../../Blog/Web-Dev/web-dev" class="Navbar__Menu">Web</a>                    
+                    <a href="../../Blog/Cybersecurity/security" class="Navbar__Menu">Security</a>                  
                     <!-- <a href="/contact.php" class="BotomMenu__Navbar--Menu">Contact</a> -->
 
                 </div>

@@ -7,7 +7,7 @@
                     </a>
                     
                     <p class="TopMenu__Title">Héctor H. Rivera<br>
-                    <span class="TopMenu__Title--sp"><a href="/blog.php">Blog</a></span>
+                    <span class="TopMenu__Title--sp"><a href="/blog">Blog</a></span>
 
                 </div>
 
@@ -20,11 +20,11 @@
                     </div>
                     
                     <ul class="menu">
-                        <li><a href="/index.php" class="Navbar__Menu">Home</a></li>
-                        <li><a href="../../Blog/Marketing/marketing.php" class="Navbar__Menu">Marketing</a></li>                    
-                        <li><a href="../../Blog/SEO/seo.php" class="Navbar__Menu">SEO</a></li>                    
-                        <li><a href="../../Blog/Web-Dev/web-dev.php" class="Navbar__Menu">Web</a></li>                  
-                        <li><a href="../../Blog/Cybersecurity/security.php" class="Navbar__Menu">Security</a></li>
+                        <li><a href="/index" class="Navbar__Menu">Home</a></li>
+                        <li><a href="../../Blog/Marketing/marketing" class="Navbar__Menu">Marketing</a></li>                    
+                        <li><a href="../../Blog/SEO/seo" class="Navbar__Menu">SEO</a></li>                    
+                        <li><a href="../../Blog/Web-Dev/web-dev" class="Navbar__Menu">Web</a></li>                  
+                        <li><a href="../../Blog/Cybersecurity/security" class="Navbar__Menu">Security</a></li>
                         <!-- <li><a href="/contact.php" class="Navbar__Menu">Contact</a></li> -->
                     </ul>
                 </nav> <!--End navbar-->
