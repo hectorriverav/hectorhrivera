@@ -84,7 +84,7 @@
                         </div>
                         
                         <div class="CardArticle__button">
-                            <a href="./master-the-strategies-of-internet-marketing.php">Read More</a>
+                            <a href="/blog/seo/the-ultimate-guide-to-making-your-website-visible-9-seo-infallible-steps">Read More</a>
                         </div>
                     </div>
                 </section>
