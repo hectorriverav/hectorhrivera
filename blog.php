@@ -72,7 +72,7 @@
                         </div>
         
                         <div>
-                            <img class="CardArticle__Image" src="/build/img/internet-marketing.webp" alt="A tablet screen with statistical graphs, a cup of coffee and a cellphone" title="Photo by form PxHere">
+                            <img class="CardArticle__Image" src="/build/img/internet-marketing.webp" alt="A tablet screen with statistical graphs, a cup of coffee and a cellphone" title="Photo by form PxHere" width="173" height="122">
                         </div>
                     </div>
                         
@@ -83,43 +83,37 @@
                         </div>
                         
                         <div class="CardArticle__button">
-                            <a href="./Blog/Marketing/master-the-strategies-of-internet-marketing.php">Read Article</a>
+                            <a href="./Blog/Marketing/master-the-strategies-of-internet-marketing">Read Article</a>
                         </div>
                     </div>
                 </section>
             </article>
 
-            <article>
-
-                <!-- Article 2 -->
-
-                <!-- <section class="CardGeneral containter CardArticle__Layout">
-
-                    <div class="CardHeader">
-                        <div class="CardGeneral__title" >
-                            <h2>Card Title</h2>
-                        </div>
-        
-                        <div>
-                            <img class="CardArticle__Image" src="/build/img/image.webp" alt="" srcset="">
-                        </div>
+            
+            <article class="CardGeneral containter CardArticle__Layout"> <!-- Article 2 -->
+                <div class="CardHeader">
+                    <div class="CardGeneral__title" >
+                        <h2>The ultimate guide to making your website visible: 9 SEO infallible steps</h2>
                     </div>
-                        
-                    <div class="CardArticle__body">
-                        <div class="CardGeneral__text">
-                            <p>Maecenas sed orci quis quam accumsan placerat ut quis nisi. Pellentesque vehicula ante vitae ligula consequat tincidunt. 
-                            </p>
-                        </div>
-                        
-                        <div class="CardArticle__button">
-                            <a href="#">Read More</a>
-                        </div>
+    
+                    <div>
+                        <img class="CardArticle__Image" src="/build/img/seo.webp" alt="SEO activities" >
                     </div>
-                </section>
+                </div>
+                    
+                <div class="CardArticle__body">
+                    <div class="CardGeneral__text">
+                        <p>In this article, we will discuss 9 infallible steps to take in your SEO strategy to make your website more visible. 
+                        </p>
+                    </div>
+                    
+                    <div class="CardArticle__button">
+                        <a href="/blog/seo/the-ultimate-guide-to-making-your-website-visible-9-seo-infallible-steps">Read More</a>
+                    </div>
+                </div>
+            </article>
 
-            </article> -->
-
-            <!-- Article 3 -->
+             <!-- Article 3 -->
 
             <!-- <article>
 
@@ -185,25 +179,25 @@
                     <div class="Blog__Section">
                         <div>
                             <div class="Blog__Sections__Button">
-                                <a href="./Blog/Marketing/marketing.php">Marketing</a>
+                                <a href="./Blog/Marketing/marketing">Marketing</a>
                             </div>
                         </div>
                         
                         <div>
                             <div class="Blog__Sections__Button">
-                                <a href="./Blog/SEO/seo.php">SEO</a>
+                                <a href="./Blog/SEO/seo">SEO</a>
                             </div>
                         </div>
 
                         <div>
                             <div class="Blog__Sections__Button">
-                                <a href="./Blog/Web-Dev/web-dev.php">Web Dev</a>
+                                <a href="./Blog/Web-Dev/web-dev">Web Dev</a>
                             </div>
                         </div>
 
                         <div>
                             <div class="Blog__Sections__Button">
-                                <a href="./Blog/Cybersecurity/security.php">Cybersecurity</a>
+                                <a href="./Blog/Cybersecurity/security">Cybersecurity</a>
                             </div>
                         </div>
                     </div>

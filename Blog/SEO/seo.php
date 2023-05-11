@@ -45,131 +45,133 @@
         </section> 
     </header>
 
-    <!-- First paragrpah -->
-    <div class="blog__intro">
+    <div class="Containter-ArticleLayout">
+        <!-- First paragrpah -->
+        <div class="blog__intro">
 
-    <p>Welcome to the SEO Section! In today's digital age, having an online presence is essential for any business, big or small. However, more than just having a website is needed to attract potential customers. This is where Search Engine Optimization (SEO) comes in.</p>
+        <p>Welcome to the SEO Section! In today's digital age, having an online presence is essential for any business, big or small. However, more than just having a website is needed to attract potential customers. This is where Search Engine Optimization (SEO) comes in.</p>
 
-    <p>SEO is optimizing a website to rank higher on search engine results pages (SERPs) for relevant keywords and phrases. This involves techniques such as keyword research, on-page optimization, link building, and more. The higher your website ranks on SERPs, the more likely it is to be seen by potential customers.</p>
+        <p>SEO is optimizing a website to rank higher on search engine results pages (SERPs) for relevant keywords and phrases. This involves techniques such as keyword research, on-page optimization, link building, and more. The higher your website ranks on SERPs, the more likely it is to be seen by potential customers.</p>
 
-    <p>For small businesses, SEO can be a game-changer. By improving their website's visibility on search engines, small businesses can compete with larger companies and reach their target audience more effectively. In addition, SEO can also help to establish credibility and trust with potential customers, as websites that rank higher on search engines are often perceived as more authoritative and trustworthy.</p>
+        <p>For small businesses, SEO can be a game-changer. By improving their website's visibility on search engines, small businesses can compete with larger companies and reach their target audience more effectively. In addition, SEO can also help to establish credibility and trust with potential customers, as websites that rank higher on search engines are often perceived as more authoritative and trustworthy.</p>
 
-    <p>In this section, I will explore the world of SEO and provide tips and strategies for small businesses to improve their online presence and drive more traffic to their website. Whether you're new to SEO or a seasoned pro, you're sure to find valuable insights and actionable advice that can help take your small business to the next level.</p>
+        <p>In this section, I will explore the world of SEO and provide tips and strategies for small businesses to improve their online presence and drive more traffic to their website. Whether you're new to SEO or a seasoned pro, you're sure to find valuable insights and actionable advice that can help take your small business to the next level.</p>
 
-    <p><i>While the website is in construction, maybe you wont be able see the four latest articles</i></p>    
+        <p><i>While the website is in construction, maybe you wont be able see the four latest articles</i></p>    
 
-    </div> <!--End first paragraph-->
+        </div> <!--End first paragraph-->
 
-    <!-- Begin last three articles cards -->
-    <div class="ArticlesCards">
-       
-        <div>  <!-- Begin card 1-->
-            <!-- <section class="CardGeneral containter CardArticle__Layout"> 
-
-            <div class="CardHeader">
-                        <div class="CardGeneral__title" >
-                            <h2>Master the Strategies of Internet Marketing</h2>
-                        </div>
+        <!-- Begin last three articles cards -->
+        <div class="ArticlesCards">
         
-                        <div>
-                            <img class="CardArticle__Image" src="/build/img/internet-marketing.webp" alt="A tablet screen with statistical graphs, a cup of coffee and a cellphone" title="Photo by form PxHere">
+            <div>  <!-- Begin card 1-->
+                <section class="CardGeneral containter CardArticle__Layout"> 
+
+                <div class="CardHeader">
+                            <div class="CardGeneral__title" >
+                                <h2>The ultimate guide to making your website visible in 2023: 9 SEO infallible steps</h2>
+                            </div>
+            
+                            <div>
+                                <img class="CardArticle__Image" src="/build/img/offpage-seo.webp" alt="Onpage components chart" title="Image credit: seobility.net">
+                            </div>
+                        </div>
+                        
+                    <div class="CardArticle__body">
+                        <div class="CardGeneral__text">
+                            <p>In this article, we will discuss 9 infallible steps to take in your SEO strategy to make your website more visible.... 
+                            </p>
+                        </div>
+                        
+                        <div class="CardArticle__button">
+                            <a href="./master-the-strategies-of-internet-marketing.php">Read More</a>
                         </div>
                     </div>
-                    
-                <div class="CardArticle__body">
-                    <div class="CardGeneral__text">
-                        <p>The development of internet marketing during the 1990s and 2000s changed the way brands and businesses use technology for marketing.... 
-                        </p>
-                    </div>
-                    
-                    <div class="CardArticle__button">
-                        <a href="./master-the-strategies-of-internet-marketing.php">Read More</a>
-                    </div>
-                </div>
-            </section> -->
-        </div> <!--End card 1-->
+                </section>
+            </div> <!--End card 1-->
 
-        <!-- Begin card 2 -->
-        <!-- <div>
-            <section class="CardGeneral containter CardArticle__Layout">
+            <!-- Begin card 2 -->
+            <!-- <div>
+                <section class="CardGeneral containter CardArticle__Layout">
 
-                <div class="CardHeader">
-                    <div class="CardGeneral__title" >
-                        <h2>Card Title</h2>
-                    </div>
+                    <div class="CardHeader">
+                        <div class="CardGeneral__title" >
+                            <h2>Card Title</h2>
+                        </div>
 
-                    <div>
-                        <img class="CardArticle__Image" src="/build/img/image.webp" alt="" srcset="">
+                        <div>
+                            <img class="CardArticle__Image" src="/build/img/image.webp" alt="" srcset="">
+                        </div>
                     </div>
-                </div>
-                    
-                <div class="CardArticle__body">
-                    <div class="CardGeneral__text">
-                        <p>Maecenas sed orci quis quam accumsan placerat ut quis nisi. Pellentesque vehicula ante vitae ligula consequat tincidunt. 
-                        </p>
+                        
+                    <div class="CardArticle__body">
+                        <div class="CardGeneral__text">
+                            <p>Maecenas sed orci quis quam accumsan placerat ut quis nisi. Pellentesque vehicula ante vitae ligula consequat tincidunt. 
+                            </p>
+                        </div>
+                        
+                        <div class="CardArticle__button">
+                            <a href="#">Read More</a>
+                        </div>
                     </div>
-                    
-                    <div class="CardArticle__button">
-                        <a href="#">Read More</a>
-                    </div>
-                </div>
-            </section> 
-        </div> -->
+                </section> 
+            </div> -->
 
-        <!-- Begin card 3-->
-        <!-- <div>
-            <section class="CardGeneral containter CardArticle__Layout">
+            <!-- Begin card 3-->
+            <!-- <div>
+                <section class="CardGeneral containter CardArticle__Layout">
 
-                <div class="CardHeader">
-                    <div class="CardGeneral__title" >
-                        <h2>Card Title</h2>
-                    </div>
+                    <div class="CardHeader">
+                        <div class="CardGeneral__title" >
+                            <h2>Card Title</h2>
+                        </div>
 
-                    <div>
-                        <img class="CardArticle__Image" src="/build/img/image.webp" alt="" srcset="">
+                        <div>
+                            <img class="CardArticle__Image" src="/build/img/image.webp" alt="" srcset="">
+                        </div>
                     </div>
-                </div>
-                    
-                <div class="CardArticle__body">
-                    <div class="CardGeneral__text">
-                        <p>Maecenas sed orci quis quam accumsan placerat ut quis nisi. Pellentesque vehicula ante vitae ligula consequat tincidunt. 
-                        </p>
+                        
+                    <div class="CardArticle__body">
+                        <div class="CardGeneral__text">
+                            <p>Maecenas sed orci quis quam accumsan placerat ut quis nisi. Pellentesque vehicula ante vitae ligula consequat tincidunt. 
+                            </p>
+                        </div>
+                        
+                        <div class="CardArticle__button">
+                            <a href="#">Read More</a>
+                        </div>
                     </div>
-                    
-                    <div class="CardArticle__button">
-                        <a href="#">Read More</a>
-                    </div>
-                </div>
-            </section> 
-        </div> -->
+                </section> 
+            </div> -->
 
-        <!-- Begin card 4-->
-        <!-- <div>
-            <section class="CardGeneral containter CardArticle__Layout">
+            <!-- Begin card 4-->
+            <!-- <div>
+                <section class="CardGeneral containter CardArticle__Layout">
 
-                <div class="CardHeader">
-                    <div class="CardGeneral__title" >
-                        <h2>Card Title</h2>
-                    </div>
+                    <div class="CardHeader">
+                        <div class="CardGeneral__title" >
+                            <h2>Card Title</h2>
+                        </div>
 
-                    <div>
-                        <img class="CardArticle__Image" src="/build/img/image.webp" alt="" srcset="">
+                        <div>
+                            <img class="CardArticle__Image" src="/build/img/image.webp" alt="" srcset="">
+                        </div>
                     </div>
-                </div>
-                    
-                <div class="CardArticle__body">
-                    <div class="CardGeneral__text">
-                        <p>Maecenas sed orci quis quam accumsan placerat ut quis nisi. Pellentesque vehicula ante vitae ligula consequat tincidunt. 
-                        </p>
+                        
+                    <div class="CardArticle__body">
+                        <div class="CardGeneral__text">
+                            <p>Maecenas sed orci quis quam accumsan placerat ut quis nisi. Pellentesque vehicula ante vitae ligula consequat tincidunt. 
+                            </p>
+                        </div>
+                        
+                        <div class="CardArticle__button">
+                            <a href="#">Read More</a>
+                        </div>
                     </div>
-                    
-                    <div class="CardArticle__button">
-                        <a href="#">Read More</a>
-                    </div>
-                </div>
-            </section> 
-        </div> -->
-        <!--End card 4-->
+                </section> 
+            </div> -->
+            <!--End card 4-->
+        </div>
     </div>
 
     <div class="FooterBlogSection">
