@@ -69,7 +69,7 @@
             
             <p>                
                 To discover the tools, technologies, and frameworks used in each, click or tap on each.
-                If you feel that I can add value to yours, simply <a href="maito:&#101;&#109;&#097;&#105;&#108;&#064;&#104;&#101;&#099;&#116;&#111;&#114;&#104;&#114;&#105;&#118;&#101;&#114;&#097;&#046;&#099;&#111;&#109;"> reach me today <i class="fa-sharp fa-solid fa-arrow-up-right-from-square"></i> </a>, and let’s talk!
+                If you feel that I can add value to yours, simply <a href="maito:&#101;&#109;&#097;&#105;&#108;&#064;&#104;&#101;&#099;&#116;&#111;&#114;&#104;&#114;&#105;&#118;&#101;&#114;&#097;&#046;&#099;&#111;&#109;"> reach me today <i class="fa-sharp fa-solid fa-arrow-up-right-from-square"></i> </a>, and let's talk!
             </p>
     
             

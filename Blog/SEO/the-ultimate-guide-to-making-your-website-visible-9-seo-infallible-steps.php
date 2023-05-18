@@ -169,7 +169,7 @@
 
         <article>
             <div class="ArticleContent__Image">
-                <img loading="lazy" class="ArticleContent__Image--Shadow" src="/build/img/onpage-seo.webp" alt="Onpage components chart" title="Image credit: seobility.net">
+                <a href="https://serc.carleton.edu/office_workspace/access_training/str_headings.html" rel="nofollow"><img loading="lazy" class="ArticleContent__Image--Shadow" src="/build/img/onpage-seo.webp" alt="Onpage components chart"></a>
             </div>
 
             <div class="ArticleContent__SubTitle">
@@ -258,7 +258,7 @@
                 <h2 id="apply-seo-properly-to-your-digital-marketing-strategy">Step 7: Apply SEO properly to your digital marketing strategy</h2>
             </div>
             <p>It's kind of obvious but keep in mind SEO is a powerful tool to increase online visibility. This way, your website can be easily found by your target audience searching for services and products related to your industry. SEO requires a strategic approach, and it includes all we discuss previously.</p>
-            <p>The first step in applying SEO to your digital marketing strategy is to conduct keyword research. Tailor your website's content to include them.</p>
+            <p>The first step in applying SEO to your <a href="/Blog/Marketing/master-the-strategies-of-internet-marketing" target="_blank">digital marketing strategy <i class="fa-sharp fa-solid fa-arrow-up-right-from-square"></i></a> is to conduct keyword research. Tailor your website's content to include them.</p>
         </article>
 
         <article>

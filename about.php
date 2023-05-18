@@ -100,7 +100,7 @@
             <h2>Commercial Engineer</h2>
             <img class="CardGeneral__image" src="/build/img/CommercialEngeneer.webp" alt="Autidit chart finance graph with handwriting. Image used as header for the section Comercial Engineer  " srcset="">
             <p>
-                I have a Bachelor's Degree in Commercial Engineering extended by "Universidad del Valle" in Bolivia in 2002. This career is about finding market needs, building the correct product or service for that niche, launch it to the market with a proper marketing strategy. So, this is what my profession is about; building an offer for a demanding market.
+                I have a Bachelor's Degree in Commercial Engineering extended by <a class="ArticleContent__index--link" href="https://www.univalle.edu/" target="_blank" rel="nofollow">Universidad Privada del Valle</a>  in Bolivia in 2002. This career is about finding market needs, building the correct product or service for that niche, launch it to the market with a proper marketing strategy. So, this is what my profession is about; building an offer for a demanding market.
             </p>
             <p>
                 My Thesis to obtain my degree was about how to market a product through the Internet. When the Internet came, I felt strongly attracted to it. That is why I decided to mix my profession with the Internet in my degree Thesis.

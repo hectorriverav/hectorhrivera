@@ -52,7 +52,7 @@
         </section>
 
         <div class="blog__intro" >
-            <p>Over the past years, I used to publish articles on <a href="https://www.kerikka.com/">www.kerikka.com</a>. For several reasons, I didn’t publish new articles lately and then decided to move them to his new website. The blog is divided into 4 sections: Internet Marketing, SEO (Search Engine Optimization), Web Development, and the newest; Cybersecurity. </p>
+            <p>Over the past years, I used to publish articles on <a class="ArticleContent__index--link" href="https://www.kerikka.com/">www.kerikka.com</a>. For several reasons, I didn’t publish new articles lately and then decided to move them to his new website. The blog is divided into 4 sections: Internet Marketing, SEO (Search Engine Optimization), Web Development, and the newest; Cybersecurity. </p>
             <p>Sometimes, technical subjects are not too easy to understand for some people who are not in the tech field. Consequently, I try my best to write so a non-tech person can understand better some concepts.Sometimes I reach my goal, other times I get close enough. </p>
             <p>Below you will find the latest article of each section. Tap or click on the card to go to the article. Or go to the end of the page and chose the section of your interest.</p>
             <p>Below you have the latest article in each section. <i>While the website is in construction, maybe you wont be able see the four latest articles</i> </p>
