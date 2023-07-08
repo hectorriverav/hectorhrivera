@@ -2,7 +2,7 @@
         <section class="TopMenu__Container">
 
             <div class="TopMenu__Logo">            
-                <a href="/index.php">
+                <a href="/index">
                     <img class="TopMenu__Logo--Image" src="/build/img/HectorHRivera-logo.webp" alt="Hector Rivera's image" height="90" width="90">
                 </a>
                 
