@@ -12,6 +12,7 @@
     </script>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="shortcut icon" href="/build/img/favicon-32x32.png" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="/build/img/SeoActivities-small.jpg" type="image/x-icon">
     <meta name="description" content="The ultimate guide to making your website visible: 9 SEO infallible steps. In this article, we will discuss 9 infallible steps to take in your SEO strategy to make your website more visible, how you can apply them in your digital marketing strategy, and why you should consider hiring an expert that specializes in SEO.">

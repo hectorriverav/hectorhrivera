@@ -45,22 +45,26 @@
         </section> 
     </header>
 
-    <!-- First paragrpah -->
-    <div class="blog__intro">
+    <div class="Containter-ArticleLayout">
 
-    <p>In this digital age, where the majority of the population accesses the internet daily, it is vital for businesses to have an online presence. And what can help businesses achieve that presence? Web development! Web development has been in the spotlight lately, and it is no surprise why. But why is this field so essential for small business owners? And what can junior web developers expect in this industry? Continue reading to find out!</p>
+        <!-- First paragrpah -->
+        <div class="blog__intro">
 
-    <p>For small business owners, having a website can be a game-changer. It helps them showcase their products or services, attracts potential customers, and increases brand awareness. However, having a website alone is not enough. The website must be user-friendly, visually appealing, and mobile-responsive. That is where web development steps in. Understanding web development basics can allow small business owners to communicate better with their web developers, saving them valuable time and resources.</p>
+        <p>In this digital age, where the majority of the population accesses the internet daily, it is vital for businesses to have an online presence. And what can help businesses achieve that presence? Web development! Web development has been in the spotlight lately, and it is no surprise why. But why is this field so essential for small business owners? And what can junior web developers expect in this industry? Continue reading to find out!</p>
 
-    <p>Moreover, having a general idea about web development trends can help small business owners keep up with the competition. Nowadays, websites must be optimized for an outstanding user experience, have fast loading times, and be secure. Staying up to date with these trends can help small businesses stay ahead of the game.</p>
+        <p>For small business owners, having a website can be a game-changer. It helps them showcase their products or services, attracts potential customers, and increases brand awareness. However, having a website alone is not enough. The website must be user-friendly, visually appealing, and mobile-responsive. That is where web development steps in. Understanding web development basics can allow small business owners to communicate better with their web developers, saving them valuable time and resources.</p>
 
-    <p>From a junior web developer's perspective, web development can be both challenging and rewarding. Junior web developers are crucial to the industry, and they must continuously upskill themselves to stay relevant. They get the opportunity to work on exciting projects, collaborate with other developers, and witness their work come to life. However, web development can also be frustrating, with endless bugs to fix and seemingly impossible problems to solve. The key is to keep pushing forward and keep learning.</p>
+        <p>Moreover, having a general idea about web development trends can help small business owners keep up with the competition. Nowadays, websites must be optimized for an outstanding user experience, have fast loading times, and be secure. Staying up to date with these trends can help small businesses stay ahead of the game.</p>
 
-    <p>Web development plays an essential role in today's digital era, and having a general knowledge of it can benefit both small business owners and junior web developers. Small business owners can save time and money by being equipped with some web development basics, and junior web developers can enjoy a challenging yet rewarding career. Let's all embrace web development and make the web a more user-friendly and exciting place!</p>
+        <p>From a junior web developer's perspective, web development can be both challenging and rewarding. Junior web developers are crucial to the industry, and they must continuously upskill themselves to stay relevant. They get the opportunity to work on exciting projects, collaborate with other developers, and witness their work come to life. However, web development can also be frustrating, with endless bugs to fix and seemingly impossible problems to solve. The key is to keep pushing forward and keep learning.</p>
 
-    <p><i>While the website is in construction, maybe you wont be able see the four latest articles</i></p>    
+        <p>Web development plays an essential role in today's digital era, and having a general knowledge of it can benefit both small business owners and junior web developers. Small business owners can save time and money by being equipped with some web development basics, and junior web developers can enjoy a challenging yet rewarding career. Let's all embrace web development and make the web a more user-friendly and exciting place!</p>
 
-    </div> <!--End first paragraph-->
+        <p><i>While the website is in construction, maybe you wont be able see the four latest articles</i></p>    
+
+        </div> <!--End first paragraph-->
+
+    </div>
 
     <!-- Begin last three articles cards -->
     <div class="ArticlesCards">

@@ -45,137 +45,29 @@
         </section> 
     </header>
 
-    <!-- First paragrpah -->
-    <div class="blog__intro">
+    <div class="Containter-ArticleLayout">
 
-    <p>In today's digital age, having a website is essential for any business. However, with the rise of cybercrime, it has become increasingly important for website owners and developers to prioritize cybersecurity. The impact of cybercrime on the global economy in 2022 was over 7 trillion dollars, and more than 422 million individuals were impacted just in the US. As a Cybersecurity Analyst, I am dedicated to sharing my knowledge so you can protect the most sensitive assets.</p>
+        <!-- First paragrpah -->
+        <div class="blog__intro">
 
-    <p>If you have or are developing an e-commerce website, it is vital to understand how to protect your client's information and your database. Small business owners and web developers are particularly vulnerable to cyber-attacks because they may not have the resources to invest in expensive cybersecurity measures. However, there are a few simple steps you can take to protect your website and your client's data.</p>
+        <p>In today's digital age, having a website is essential for any business. However, with the rise of cybercrime, it has become increasingly important for website owners and developers to prioritize cybersecurity. The impact of cybercrime on the global economy in 2022 was over 7 trillion dollars, and more than 422 million individuals were impacted just in the US. As a Cybersecurity Analyst, I am dedicated to sharing my knowledge so you can protect the most sensitive assets.</p>
 
-    <p>For example, the first step is to ensure that your website is using a secure connection. This means using HTTPS instead of HTTP, which encrypts data that is transmitted between the server and the client's device. This is essential when handling sensitive information like credit card details, passwords, and personal information.</p>
+        <p>If you have or are developing an e-commerce website, it is vital to understand how to protect your client's information and your database. Small business owners and web developers are particularly vulnerable to cyber-attacks because they may not have the resources to invest in expensive cybersecurity measures. However, there are a few simple steps you can take to protect your website and your client's data.</p>
 
-    <p>Another important aspect of cybersecurity is password management. Weak passwords are easy targets for hackers. Ensure that your website requires strong and complex passwords and that your clients are informed about the importance of creating a unique password. Additionally, you should take advantage of tools like two-factor authentication to add an extra layer of security.</p>
+        <p>For example, the first step is to ensure that your website is using a secure connection. This means using HTTPS instead of HTTP, which encrypts data that is transmitted between the server and the client's device. This is essential when handling sensitive information like credit card details, passwords, and personal information.</p>
 
-    <p>Lastly, another action you can take is to keep your website up-to-date with the latest security patches and software updates. Cybercriminals are always looking for vulnerabilities in websites, and outdated software can be an easy target. Ensuring that your website is continually updated will make it harder for hackers to exploit any weaknesses.</p>
+        <p>Another important aspect of cybersecurity is password management. Weak passwords are easy targets for hackers. Ensure that your website requires strong and complex passwords and that your clients are informed about the importance of creating a unique password. Additionally, you should take advantage of tools like two-factor authentication to add an extra layer of security.</p>
 
-    <P>In summary, cybersecurity is of critical importance for website owners and developers. With cybercrime becoming increasingly prevalent, small business owners and web developers must take steps to ensure that their client's sensitive data is secure. Remember, the cost of a data breach can be significant in terms of both finances and reputation, so investing in cybersecurity is always worth it. I hope you enjoy the coming articles.</P>
+        <p>Lastly, another action you can take is to keep your website up-to-date with the latest security patches and software updates. Cybercriminals are always looking for vulnerabilities in websites, and outdated software can be an easy target. Ensuring that your website is continually updated will make it harder for hackers to exploit any weaknesses.</p>
 
-    <p><i>While the website is in construction, maybe you wont be able see the four latest articles</i></p>    
+        <P>In summary, cybersecurity is of critical importance for website owners and developers. With cybercrime becoming increasingly prevalent, small business owners and web developers must take steps to ensure that their client's sensitive data is secure. Remember, the cost of a data breach can be significant in terms of both finances and reputation, so investing in cybersecurity is always worth it. I hope you enjoy the coming articles.</P>
 
-    </div> <!--End first paragraph-->
+        <p><i>While the website is in construction, maybe you wont be able see the four latest articles</i></p>    
 
-    <!-- Begin last three articles cards -->
-    <div class="ArticlesCards">
-       
-        <div>  <!-- Begin card 1-->
-            <!-- <section class="CardGeneral containter CardArticle__Layout"> 
+        </div> <!--End first paragraph-->
 
-            <div class="CardHeader">
-                        <div class="CardGeneral__title" >
-                            <h2>Master the Strategies of Internet Marketing</h2>
-                        </div>
-        
-                        <div>
-                            <img class="CardArticle__Image" src="/build/img/internet-marketing.webp" alt="A tablet screen with statistical graphs, a cup of coffee and a cellphone" title="Photo by form PxHere">
-                        </div>
-                    </div>
-                    
-                <div class="CardArticle__body">
-                    <div class="CardGeneral__text">
-                        <p>The development of internet marketing during the 1990s and 2000s changed the way brands and businesses use technology for marketing.... 
-                        </p>
-                    </div>
-                    
-                    <div class="CardArticle__button">
-                        <a href="./master-the-strategies-of-internet-marketing.php">Read More</a>
-                    </div>
-                </div>
-            </section> -->
-        </div> <!--End card 1-->
-
-        <!-- Begin card 2 -->
-        <!-- <div>
-            <section class="CardGeneral containter CardArticle__Layout">
-
-                <div class="CardHeader">
-                    <div class="CardGeneral__title" >
-                        <h2>Card Title</h2>
-                    </div>
-
-                    <div>
-                        <img class="CardArticle__Image" src="/build/img/image.webp" alt="" srcset="">
-                    </div>
-                </div>
-                    
-                <div class="CardArticle__body">
-                    <div class="CardGeneral__text">
-                        <p>Maecenas sed orci quis quam accumsan placerat ut quis nisi. Pellentesque vehicula ante vitae ligula consequat tincidunt. 
-                        </p>
-                    </div>
-                    
-                    <div class="CardArticle__button">
-                        <a href="#">Read More</a>
-                    </div>
-                </div>
-            </section> 
-        </div> -->
-
-        <!-- Begin card 3-->
-        <!-- <div>
-            <section class="CardGeneral containter CardArticle__Layout">
-
-                <div class="CardHeader">
-                    <div class="CardGeneral__title" >
-                        <h2>Card Title</h2>
-                    </div>
-
-                    <div>
-                        <img class="CardArticle__Image" src="/build/img/image.webp" alt="" srcset="">
-                    </div>
-                </div>
-                    
-                <div class="CardArticle__body">
-                    <div class="CardGeneral__text">
-                        <p>Maecenas sed orci quis quam accumsan placerat ut quis nisi. Pellentesque vehicula ante vitae ligula consequat tincidunt. 
-                        </p>
-                    </div>
-                    
-                    <div class="CardArticle__button">
-                        <a href="#">Read More</a>
-                    </div>
-                </div>
-            </section> 
-        </div> -->
-
-        <!-- Begin card 4-->
-        <!-- <div>
-            <section class="CardGeneral containter CardArticle__Layout">
-
-                <div class="CardHeader">
-                    <div class="CardGeneral__title" >
-                        <h2>Card Title</h2>
-                    </div>
-
-                    <div>
-                        <img class="CardArticle__Image" src="/build/img/image.webp" alt="" srcset="">
-                    </div>
-                </div>
-                    
-                <div class="CardArticle__body">
-                    <div class="CardGeneral__text">
-                        <p>Maecenas sed orci quis quam accumsan placerat ut quis nisi. Pellentesque vehicula ante vitae ligula consequat tincidunt. 
-                        </p>
-                    </div>
-                    
-                    <div class="CardArticle__button">
-                        <a href="#">Read More</a>
-                    </div>
-                </div>
-            </section> 
-        </div> -->
-        <!--End card 4-->
     </div>
-
+    
     <div class="FooterBlogSection">
         <!-- Last paragrpah -->
         <div class="Container">

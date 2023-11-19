@@ -10,3 +10,5 @@ gulpfile.js
 script.js
 package-lock.json
 package.json
+index-draft.php
+includes/templates/top-menu-draft.php
