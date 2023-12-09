@@ -95,7 +95,7 @@
 
         <section> <!--Introduction-->
             <div class="ArticleContent__Image">
-                <img loading="lazy" class="ArticleContent__Image--Shadow" src="/build/img/ProgrammingCode.webp" alt="Web code on screen" title="Photo by form PxHere" >
+                <img loading="lazy" class="ArticleContent__Image--Shadow" src="/build/img/ProgrammingCode.webp" alt="Web code on screen" title="Photo by form PxHere" loading="lazy">
             </div>        
             <p>
             If you are looking for a career that allows you to unleash your creativity, embrace constant growth, and shape the digital world, this article is for you.

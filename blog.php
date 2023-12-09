@@ -36,13 +36,7 @@
         <section class="hero hero__blog"> <!-- Hero header -->
 
             <div class="hero__content">
-
-                <p class="inConstruction" >Sorry for the dust... I'm still building this webiste</p>
-            
-                <h1 class="hero__title">
-                    Blog
-                </h1>
-                    
+                <h1 class="hero__title">Blog</h1>                    
                 <button type="button" class="hero__button">
                     <a href="#blog-sections">
                     Go sections
@@ -93,7 +87,7 @@
             <article class="CardGeneral containter CardArticle__Layout"> <!-- Article 2 -->
                 <div class="CardHeader">
                     <div class="CardGeneral__title" >
-                        <h2>The ultimate guide to making your website visible: 9 SEO infallible steps</h2>
+                        <h2>The ultimate guide to making your website visible</h2>
                     </div>
     
                     <div>
@@ -115,33 +109,33 @@
 
              <!-- Article 3 -->
 
-            <!-- <article>
+            <article>
 
                 
                 <section class="CardGeneral containter CardArticle__Layout">
 
                     <div class="CardHeader">
                         <div class="CardGeneral__title" >
-                            <h2>Card Title</h2>
+                            <h2>Become a Web Developer from Scratch</h2>
                         </div>
         
                         <div>
-                            <img class="CardArticle__Image" src="/build/img/image.webp" alt="" srcset="">
+                            <img class="CardArticle__Image" src="/build/img/ProgrammingCode.webp" alt="Web code on screen" title="Photo by form PxHere" loading="lazy">
                         </div>
                     </div>
                         
                     <div class="CardArticle__body">
                         <div class="CardGeneral__text">
-                            <p>Maecenas sed orci quis quam accumsan placerat ut quis nisi. Pellentesque vehicula ante vitae ligula consequat tincidunt. 
+                            <p>In this artice, I'll share with you the <b>seven steps</b> I followed to get the skills to become a Web Developer from cero. 
                             </p>
                         </div>
                         
                         <div class="CardArticle__button">
-                            <a href="#">Read More</a>
+                            <a href="/Blog/web-dev/seven-steps-of-how-to-become-a-web-developer-from-scratch.php">Read More</a>
                         </div>
                     </div>
                 </section>
-            </article> -->
+            </article>
 
                 <!-- Article 4 -->
             <!-- <article>

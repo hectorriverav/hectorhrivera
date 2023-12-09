@@ -67,32 +67,28 @@
     </div>
 
     <!-- Begin last three articles cards -->
-    <div class="ArticlesCards">
-       
+    <div class="ArticlesCards">       
         <div>  <!-- Begin card 1-->
-            <!-- <section class="CardGeneral containter CardArticle__Layout"> 
-
-            <div class="CardHeader">
-                        <div class="CardGeneral__title" >
-                            <h2>Master the Strategies of Internet Marketing</h2>
-                        </div>
-        
-                        <div>
-                            <img class="CardArticle__Image" src="/build/img/internet-marketing.webp" alt="A tablet screen with statistical graphs, a cup of coffee and a cellphone" title="Photo by form PxHere">
-                        </div>
+            <section class="CardGeneral containter CardArticle__Layout">
+                <div class="CardHeader">
+                    <div class="CardGeneral__title" >
+                        <h2>Become a Web Developer from Scratch</h2>
                     </div>
-                    
+                    <div>
+                        <img class="CardArticle__Image" src="/build/img/ProgrammingCode.webp" alt="Web code on screen" title="Photo by form PxHere" loading="lazy">
+                    </div>
+                </div>            
                 <div class="CardArticle__body">
                     <div class="CardGeneral__text">
-                        <p>The development of internet marketing during the 1990s and 2000s changed the way brands and businesses use technology for marketing.... 
+                        <p>In this artice, I'll share with you the <b>seven steps</b> I followed to get the skills to become a Web Developer from cero. 
                         </p>
                     </div>
                     
                     <div class="CardArticle__button">
-                        <a href="./master-the-strategies-of-internet-marketing.php">Read More</a>
+                        <a href="/Blog/web-dev/seven-steps-of-how-to-become-a-web-developer-from-scratch.php">Read More</a>
                     </div>
                 </div>
-            </section> -->
+            </section>
         </div> <!--End card 1-->
 
         <!-- Begin card 2 -->
@@ -174,9 +170,8 @@
                     </div>
                 </div>
             </section> 
-        </div> -->
-        <!--End card 4-->
-    </div>
+        </div> -->       
+    </div> <!--End card 4-->
 
     <div class="FooterBlogSection">
         <!-- Last paragrpah -->

@@ -7,7 +7,7 @@
                 </a>
                 
                 <p class="TopMenu__Title">Héctor H. Rivera<br>
-                <span class="TopMenu__Title--sp">Commercial Engineer | SEO | Web Developer</span>
+                <span class="TopMenu__Title--sp">B.A. | SEO | Developer | Cybersecurity</span>
 
             </div>
 

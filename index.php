@@ -28,20 +28,9 @@
             <main>                             
                 <section class="hero__home">
 
-                    <div class="hero__content">
-
-                        <p class="inConstruction" >Sorry for the dust... I'm still building this webiste</p>
-                    
-                        <!-- <h1 class="hero__title">
-                            Hector H. Rivera
-                        </h1>
-
-                        <p class="hero__text">
-                            Commercial Engineer | Technnical SEO | Web developer
-                        </p> -->
-                            
+                    <div class="hero__content">                            
                         <button type="button" class="hero__button">
-                            <a href="mailto:email@hectorhrivera.com">
+                            <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#101;&#109;&#97;&#105;&#108;&#64;&#104;&#101;&#99;&#116;&#111;&#114;&#104;&#114;&#105;&#118;&#101;&#114;&#97;&#46;&#99;&#111;&#109;"</a>
                             Email me
                             </a>
                         </button>

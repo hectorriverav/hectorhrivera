@@ -37,13 +37,9 @@
     <section class="hero__portfolio">   <!-- Hero Section -->
 
         <div class="hero__content">
-
-            <p class="inConstruction" >Sorry for the dust... I'm still building this webiste</p>
-        
             <h1 class="hero__title">
                 My Portfolio
             </h1>
-
             <p class="hero__text hero__text--portfolio">
                 Take a look to some projects in SEO and web development. Tell me about yours today.
             </p>
