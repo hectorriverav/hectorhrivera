@@ -85,7 +85,7 @@
                     </div>
                     
                     <div class="CardArticle__button">
-                        <a href="/Blog/web-dev/seven-steps-of-how-to-become-a-web-developer-from-scratch.php">Read More</a>
+                        <a href="/Blog/Web-Dev/seven-steps-of-how-to-become-a-web-developer-from-scratch.php">Read More</a>
                     </div>
                 </div>
             </section>

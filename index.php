@@ -39,6 +39,118 @@
             </main>
         </div>
         
+        <h2 class="CardGeneral__title">Last Articles</h2>
+        <main class="Containter"><!-- Articles Cards -->
+            <article>
+                <!-- Article 1 -->
+                <section class="CardGeneral containter CardArticle__Layout">
+
+                    <div class="CardHeader">
+                        <div class="CardGeneral__title" >
+                            <h2>Master the Strategies of Internet Marketing</h2>
+                        </div>
+        
+                        <div>
+                            <img class="CardArticle__Image" src="/build/img/internet-marketing.webp" alt="A tablet screen with statistical graphs, a cup of coffee and a cellphone" title="Photo by form PxHere" width="173" height="122">
+                        </div>
+                    </div>
+                        
+                    <div class="CardArticle__body">
+                        <div class="CardGeneral__text">
+                            <p> The development of internet marketing during the 1990s and 2000s changed the way brands and businesses use technology for marketing....
+                            </p>
+                        </div>
+                        
+                        <div class="CardArticle__button">
+                            <a href="./Blog/Marketing/master-the-strategies-of-internet-marketing">Read Article</a>
+                        </div>
+                    </div>
+                </section>
+            </article>
+
+            
+            <article class="CardGeneral containter CardArticle__Layout"> <!-- Article 2 -->
+                <div class="CardHeader">
+                    <div class="CardGeneral__title" >
+                        <h2>The ultimate guide to making your website visible</h2>
+                    </div>
+    
+                    <div>
+                        <img class="CardArticle__Image" src="/build/img/seo.webp" alt="SEO activities" >
+                    </div>
+                </div>
+                    
+                <div class="CardArticle__body">
+                    <div class="CardGeneral__text">
+                        <p>In this article, we will discuss 9 infallible steps to take in your SEO strategy to make your website more visible. 
+                        </p>
+                    </div>
+                    
+                    <div class="CardArticle__button">
+                        <a href="/Blog/SEO/the-ultimate-guide-to-making-your-website-visible-9-seo-infallible-steps">Read More</a>
+                    </div>
+                </div>
+            </article>
+
+             <!-- Article 3 -->
+
+            <article>
+
+                
+                <section class="CardGeneral containter CardArticle__Layout">
+
+                    <div class="CardHeader">
+                        <div class="CardGeneral__title" >
+                            <h2>Become a Web Developer from Scratch</h2>
+                        </div>
+        
+                        <div>
+                            <img class="CardArticle__Image" src="/build/img/ProgrammingCode.webp" alt="Web code on screen" title="Photo by form PxHere" loading="lazy">
+                        </div>
+                    </div>
+                        
+                    <div class="CardArticle__body">
+                        <div class="CardGeneral__text">
+                            <p>In this artice, I'll share with you the <b>seven steps</b> I followed to get the skills to become a Web Developer from cero. 
+                            </p>
+                        </div>
+                        
+                        <div class="CardArticle__button">
+                            <a href="/Blog/Web-Dev/seven-steps-of-how-to-become-a-web-developer-from-scratch.php">Read More</a>
+                        </div>
+                    </div>
+                </section>
+            </article>
+
+                <!-- Article 4 -->
+            <!-- <article>
+                <section class="CardGeneral containter CardArticle__Layout">
+
+                    <div class="CardHeader">
+                        <div class="CardGeneral__title" >
+                            <h2>Card Title</h2>
+                        </div>
+        
+                        <div>
+                            <img class="CardArticle__Image" src="/build/img/image.webp" alt="" srcset="">
+                        </div>
+                    </div>
+                        
+                    <div class="CardArticle__body">
+                        <div class="CardGeneral__text">
+                            <p>Maecenas sed orci quis quam accumsan placerat ut quis nisi. Pellentesque vehicula ante vitae ligula consequat tincidunt. 
+                            </p>
+                        </div>
+                        
+                        <div class="CardArticle__button">
+                            <a href="#">Read More</a>
+                        </div>
+                    </div>
+                </section>
+
+            </article> -->
+        </main>
+
         <footer>
         <!--Menu-->
         <?php

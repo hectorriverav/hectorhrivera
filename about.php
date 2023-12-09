@@ -52,10 +52,7 @@
     <!-- hero image begin -->
     <section class="hero__about">
 
-        <div class="hero__content">
-
-            <p class="inConstruction" >Sorry for the dust... I'm still building this webiste</p>
-        
+        <div class="hero__content">        
             <p class="hero__title">
                 About me
             </p>
