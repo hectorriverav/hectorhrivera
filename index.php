@@ -20,6 +20,17 @@
     <script src="https://kit.fontawesome.com/cb1ec135db.js" crossorigin="anonymous"></script>
     <title>Hector H. Rivera</title>
     <link rel="icon" type="image/x-icon" href="/build/img/favicon-32x32.png">
+<!-- schema -->
+    <script type="application/ld+json"> 
+        {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "image": "/build/img/favicon-32x32.png",
+        "jobTitle": "B.A., SEO, front-end developer, cybersecurity analyst",
+        "name": "Hector H. Rivera-Vaca",
+        "url": "https://hectorhrivera.com/"
+        }
+    </script>
 </head>
 <body>
     <div class="ContentHome">
@@ -38,7 +49,7 @@
                 </section>
             </main>
         </div>
-        
+
         <h2 class="CardGeneral__title">Last Articles</h2>
         <main class="Containter"><!-- Articles Cards -->
             <article>
