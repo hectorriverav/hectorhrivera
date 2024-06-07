@@ -37,8 +37,7 @@
         ?>
         
     </header>
-<body>
-
+    
     <section class="ArticleHeader Containter">
         <h1 class="ArticleHeader__Title">Gain Visibility and a Broader Audience: Master the Strategies of Internet Marketing</h1>
         <p> The development of internet marketing during the 1990s and 2000s changed the way brands and businesses use technology for marketing. It is an important part of the marketing mix that uses the internet, and online-based digital technologies such as desktop computers, mobile phones, and other digital media and platforms. It is an effective way for businesses to reach their target audience and to drive traffic to their websites.</p>

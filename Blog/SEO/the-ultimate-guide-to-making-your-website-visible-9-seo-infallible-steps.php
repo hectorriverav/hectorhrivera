@@ -40,8 +40,7 @@
         ?>
         
     </header>
-<body>
-
+    
     <section class="ArticleHeader Containter">
         <h1 class="ArticleHeader__Title">The ultimate guide to making your website visible in 2023: 9 SEO infallible steps</h1>
         <p>In this article, we will discuss 9 infallible steps to take in your SEO strategy to make your website more visible. How you can apply them in your digital marketing strategy, the relationship between web design and positioning, and why you should consider hiring an expert that specializes in SEO.</p>

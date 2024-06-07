@@ -15,7 +15,7 @@
     <link rel="shortcut icon" href="/build/img/favicon-32x32.png" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="/build/img/SeoActivities-small.jpg" type="image/x-icon">
-    <meta name="description" content="The ultimate guide to making your website visible: 9 SEO infallible steps. In this article, we will discuss 9 infallible steps to take in your SEO strategy to make your website more visible, how you can apply them in your digital marketing strategy, and why you should consider hiring an expert that specializes in SEO.">
+    <meta name="description" content="If you want to become a web developer, in this article I'll share with you 7 steps I followed in this pathway ">
     <link rel="stylesheet" href="/build/css/app.css">
     <meta name="keywords" content="seo, making your website visible, kewyord, content, serp, on-page optimization, off-page optimization, mobile otpimization, seo expert">
     <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Raleway:wght@700&display=swap" rel="stylesheet">
@@ -40,8 +40,7 @@
         ?>
         
     </header>
-
-<body>
+    
     <section class="ArticleHeader Containter">
         <h1 class="ArticleHeader__Title">Seven Steps of How to Become a Web Developer from Scratch</h1>
         <p>

@@ -14,6 +14,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="shortcut icon" href="/build/img/favicon-32x32.png" type="image/x-icon">
+        <title>Porfolio</title>
         <meta name="keywords" content="Hector, Rivera, Commercial, Engineer, SEO, Web, Developer, Manassas, Virginia">
         <meta name="description" content="Hector H. Rivera Vaca, Comercial Engineer, Technical SEO Specialist and Jr. Front-End Web Developer | Contact me to add value to your project or business. ">
         <link rel="stylesheet" href="/build/css/app.css">
@@ -22,17 +23,13 @@
         <script src="https://kit.fontawesome.com/cb1ec135db.js" crossorigin="anonymous"></script>
         <!-- schema -->
         
-        <title>Hector H. Rivera</title>
     </head>
 <body>
 
     <!-- Top Menu -->
-
     <?php
     include "./includes/templates/top-menu.php"
-    ?>
-
-   
+    ?> 
   
     <section class="hero__portfolio">   <!-- Hero Section -->
 
@@ -50,9 +47,7 @@
                 </a>
             </button>
         </div>
-    </section>
-
-    
+    </section>   
         
     <main><!-- Galery portfolio -->
         <section class="Galery Containter">
@@ -91,7 +86,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="https://loveineverypiece.com/" target="_blank" rel="nofollow" >Daddy And Doghter Designs
+                    <a href="https://loveineverypiece.com/" target="_blank" rel="nofollow" >Daddy And Daughter Designs
                         <i class="fa-sharp fa-solid fa-arrow-up-right-from-square"></i> 
                     </a>
                 </li>

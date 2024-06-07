@@ -14,7 +14,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="shortcut icon" href="/build/img/favicon-32x32.png" type="image/x-icon">
-        <title>Hector H. Rivera's Blog</title>
+        <title>Blog</title>
         <meta name="keywords" content="Hector, Rivera, Commercial, Engineer, SEO, Web, Developer, Manassas, Virginia">
         <meta name="description" content="Hector H. Rivera Vaca, Comercial Engineer, Technical SEO Specialist and Jr. Front-End Web Developer | Contact me to add value to your project or business. ">
         <link rel="stylesheet" href="/build/css/app.css">
@@ -52,7 +52,6 @@
             <p>Below you have the latest article in each section. <i>While the website is in construction, maybe you wont be able see the four latest articles</i> </p>
             <p>Enjoy!</p> 
         </div>
-
         
         <main class="Containter"><!-- Articles Cards -->        
             <article>
@@ -166,38 +165,6 @@
             </article> -->
         </main>
 
-        <div class="Blog"> <!--Blog Sections-->
-            <section  class="Blog__Sections">
-                <div>
-                    <h2 id="blog-sections" >Blog Sections</h2>
-                    <div class="Blog__Section">
-                        <div>
-                            <div class="Blog__Sections__Button">
-                                <a href="./Blog/Marketing/marketing">Marketing</a>
-                            </div>
-                        </div>
-                        
-                        <div>
-                            <div class="Blog__Sections__Button">
-                                <a href="./Blog/SEO/seo">SEO</a>
-                            </div>
-                        </div>
-
-                        <div>
-                            <div class="Blog__Sections__Button">
-                                <a href="./Blog/Web-Dev/web-dev">Web Dev</a>
-                            </div>
-                        </div>
-
-                        <div>
-                            <div class="Blog__Sections__Button">
-                                <a href="./Blog/Cybersecurity/security">Cybersecurity</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-        </div>
             <section>
                 <div class="Blog__Sections__Text"> <!--Last Paragraph-->
                     <p>Sign up today for the newsletter. You will receive once or twice-a-month tips for your marketing efforts and how secure your data on the internet.</p>

@@ -13,7 +13,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
     <meta name="description" content="Welcome! This website aims to demonstrate my front-end developer and SEO skills. And show my developing aptitudes in full-stack and as a cybersecurity analyst.">
+    <meta name="keywords" content="Hector H. Rivera, Technical SEO specialist, front-end developer, cybersecurity analyst, internet marketing, web developer ">
     <link rel="stylesheet" href="/build/css/app.css">
     <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Raleway:wght@700&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Raleway:wght@700&display=swap" rel="stylesheet">
@@ -50,116 +52,108 @@
             </main>
         </div>
 
-        <h2 class="CardGeneral__title">Last Articles</h2>
-        <main class="Containter"><!-- Articles Cards -->
+        <!-- New section begins -->
+        <main class="Containter"><!--Menu cards-->        
             <article>
-                <!-- Article 1 -->
-                <section class="CardGeneral containter CardArticle__Layout">
+
+                <section class="CardGeneral containter CardArticle__Layout"> <!--About me-->
 
                     <div class="CardHeader">
                         <div class="CardGeneral__title" >
-                            <h2>Master the Strategies of Internet Marketing</h2>
+                            <h2>Learn about me</h2>
                         </div>
         
                         <div>
-                            <img class="CardArticle__Image" src="/build/img/internet-marketing.webp" alt="A tablet screen with statistical graphs, a cup of coffee and a cellphone" title="Photo by form PxHere" width="173" height="122">
+                            <img class="CardArticle__Image" src="/build/img/AboutHeroImage.webp" alt="A tablet screen with statistical graphs, a cup of coffee and a cellphone" title="Photo by form PxHere" width="173" height="122">
                         </div>
                     </div>
                         
                     <div class="CardArticle__body">
                         <div class="CardGeneral__text">
-                            <p> The development of internet marketing during the 1990s and 2000s changed the way brands and businesses use technology for marketing....
+                            <p>
+                            Business Administrator turned digital marketing & SEO expert. Launched 10+ projects, helping businesses grow for 18 years.
                             </p>
                         </div>
                         
                         <div class="CardArticle__button">
-                            <a href="./Blog/Marketing/master-the-strategies-of-internet-marketing">Read Article</a>
+                            <a href="/about">Learn more</a>
                         </div>
                     </div>
                 </section>
             </article>
-
             
-            <article class="CardGeneral containter CardArticle__Layout"> <!-- Article 2 -->
+            <article class="CardGeneral containter CardArticle__Layout"> <!--Porfolio-->
                 <div class="CardHeader">
                     <div class="CardGeneral__title" >
-                        <h2>The ultimate guide to making your website visible</h2>
+                        <h2>Take a look to my portfolio</h2>
                     </div>
     
                     <div>
-                        <img class="CardArticle__Image" src="/build/img/seo.webp" alt="SEO activities" >
+                        <img class="CardArticle__Image" src="/build/img/ShakingHands.webp" alt="Two cartoon people chaking hands" >
                     </div>
                 </div>
                     
                 <div class="CardArticle__body">
                     <div class="CardGeneral__text">
-                        <p>In this article, we will discuss 9 infallible steps to take in your SEO strategy to make your website more visible. 
+                        <p>
+                        Web Deveveloper, Technical SEO expert & SEM Pro. Look at my portfolio for past projects & the skills I bring to your business. 
                         </p>
-                    </div>
-                    
+                    </div>                    
                     <div class="CardArticle__button">
-                        <a href="/Blog/SEO/the-ultimate-guide-to-making-your-website-visible-9-seo-infallible-steps">Read More</a>
+                        <a href="/porfolio">Learn more</a>
                     </div>
                 </div>
-            </article>
+            </article>           
+           
+        </main>
 
-             <!-- Article 3 -->
+            <div>
+                <h2> <center>Dig into my blog</center></h2>
+            </div>
 
-            <article>
+            <div>
+                <p> 
+                    <center>I do my best to write clear tech articles (SEO, Web Dev, Cybersecurity) for non-tech audience. See latest on my blog!</center>
+                </p>
+            </div>
+        <!-- New section ends -->
 
-                
-                <section class="CardGeneral containter CardArticle__Layout">
-
-                    <div class="CardHeader">
-                        <div class="CardGeneral__title" >
-                            <h2>Become a Web Developer from Scratch</h2>
-                        </div>
+        <!-- NEW blog section begins -->
         
+        <div class="Blog"> <!--Blog Sections-->
+            <section  class="Blog__Sections">
+                <div>
+                    <h2 id="blog-sections" >Blog Sections</h2>
+                    <div class="Blog__Section">
                         <div>
-                            <img class="CardArticle__Image" src="/build/img/ProgrammingCode.webp" alt="Web code on screen" title="Photo by form PxHere" loading="lazy">
-                        </div>
-                    </div>
-                        
-                    <div class="CardArticle__body">
-                        <div class="CardGeneral__text">
-                            <p>In this artice, I'll share with you the <b>seven steps</b> I followed to get the skills to become a Web Developer from cero. 
-                            </p>
+                            <div class="Blog__Sections__Button">
+                                <a href="./Blog/Marketing/marketing">Marketing</a>
+                            </div>
                         </div>
                         
-                        <div class="CardArticle__button">
-                            <a href="/Blog/Web-Dev/seven-steps-of-how-to-become-a-web-developer-from-scratch.php">Read More</a>
-                        </div>
-                    </div>
-                </section>
-            </article>
-
-                <!-- Article 4 -->
-            <!-- <article>
-                <section class="CardGeneral containter CardArticle__Layout">
-
-                    <div class="CardHeader">
-                        <div class="CardGeneral__title" >
-                            <h2>Card Title</h2>
-                        </div>
-        
                         <div>
-                            <img class="CardArticle__Image" src="/build/img/image.webp" alt="" srcset="">
+                            <div class="Blog__Sections__Button">
+                                <a href="./Blog/SEO/seo">SEO</a>
+                            </div>
                         </div>
-                    </div>
-                        
-                    <div class="CardArticle__body">
-                        <div class="CardGeneral__text">
-                            <p>Maecenas sed orci quis quam accumsan placerat ut quis nisi. Pellentesque vehicula ante vitae ligula consequat tincidunt. 
-                            </p>
-                        </div>
-                        
-                        <div class="CardArticle__button">
-                            <a href="#">Read More</a>
-                        </div>
-                    </div>
-                </section>
 
-            </article> -->
+                        <div>
+                            <div class="Blog__Sections__Button">
+                                <a href="./Blog/Web-Dev/web-dev">Web Dev</a>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="Blog__Sections__Button">
+                                <a href="./Blog/Cybersecurity/security">Cybersecurity</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <!-- NEW blog section ends -->
+
         </main>
 
         <footer>
